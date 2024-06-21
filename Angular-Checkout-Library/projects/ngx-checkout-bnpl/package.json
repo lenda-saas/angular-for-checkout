@@ -1,0 +1,31 @@
+{
+  "name": "ngx-checkout-bnpl",
+  "version": "1.0.1",
+  "peerDependencies": {
+    "@angular/common": "8.0.0 - 17.x.x",
+    "@angular/core": "8.0.0 - 17.x.x"
+  },
+  "description": "💵 An angular2+ module for BNPL Checkout transactions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenda-saas/angular-for-checkout.git"
+  },
+  "license": "MIT",
+  "author": {
+    "email": "a.abitogun@lendastack.io",
+    "name": "Akinbode Abitogun",
+    "url": "https://github.com/abitoguna-ark"
+  },
+  "keywords": [
+    "angular",
+    "checkout",
+    "transaction",
+    "payment",
+    "buy-now-pay-later",
+    "lendastack"
+  ],
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
